@@ -1,2 +1,2 @@
-This repo is following Mosh Intermediate tutorials for Java.
+This repo is following Mosh Advanced tutorials for Java.
 
