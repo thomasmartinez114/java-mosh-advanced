@@ -13,8 +13,5 @@ public class ExceptionsDemo {
         catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        catch (IOException e) {
-            System.out.println("Could not read data.");
-        }
     }
 }
